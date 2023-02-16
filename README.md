@@ -1,6 +1,6 @@
 # Hello
 
-- 知识归纳：[Stack Reduce](http://stack-reduce.kitlib.cn)
+- 知识归纳：[StackReduce](http://stack-reduce.kitlib.cn)
 - 个人博客：[Blog](https://xinyii.github.io/blog/)
 - 个人网站：[KitLib](https://kitlib.cn)
 - 开源作品：[JavaFlow](https://github.com/java-flow/java-flow)
